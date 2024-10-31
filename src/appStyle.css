@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#root{
+    width: 100%;
+}
+
+body{
+    width: 100%;
+}
+
+header{
+    width: 100%;
+    text-align: center;
+}
