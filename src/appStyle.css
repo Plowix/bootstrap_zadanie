@@ -39,3 +39,8 @@ header{
     min-width: 100px;
     width: 50%;
 }
+
+nav.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
