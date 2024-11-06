@@ -8,6 +8,8 @@ import Zadanie2 from './Zadanie2.jsx';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Zadanie1 />
+    <hr />
     <Zadanie2 />
+    <hr />
   </StrictMode>,
 )
